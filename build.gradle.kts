@@ -66,10 +66,10 @@ paperweight {
             baseName("Folia")
 
             apiPatchDir.set(layout.projectDirectory.dir("patches/api"))
-            apiOutputDir.set(layout.projectDirectory.dir("kaiiju-api"))
+            apiOutputDir.set(layout.projectDirectory.dir("Kaiiju-API"))
 
             serverPatchDir.set(layout.projectDirectory.dir("patches/server"))
-            serverOutputDir.set(layout.projectDirectory.dir("kaiiju-server"))
+            serverOutputDir.set(layout.projectDirectory.dir("Kaiiju-Server"))
         }
     }
 }
